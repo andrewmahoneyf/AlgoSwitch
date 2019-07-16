@@ -1,0 +1,55 @@
+.fa {
+  padding: 10px;
+  width: 35px;
+  margin: 2px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-github {
+  background: black;
+  color: white;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-envelope {
+  background: #bb0000;
+  color: white;
+}
+.fa-phone {
+  background: #125688;
+  color: white;
+}
+.fa-bars {
+  color: white;
+}
+.fa-gear {
+  font-size: 25px !important;
+}
+.fa-linux, .fa-windows {
+  width: 75px;
+}
+.fa-random {
+  width: 102px;
+}
+.fa-linux:hover, .fa-windows:hover, .fa-random:hover, .fa-btc:hover {
+  opacity: 1;
+}
+.fa-ethereum {
+  fill: #5a5a5a;
+}
+.fa-usd {
+  padding-left: 0;
+}
+.fa-btc{
+  width: 65px;
+}
